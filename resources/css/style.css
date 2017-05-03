@@ -36,7 +36,7 @@ img{
 video{
 	margin-top: 22px;
 }
-footer{
+.footer{
 	text-align: right;
-	color: Gray;
+	margin-right: 8px;
 }
